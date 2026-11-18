@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "self-healing-canary-app",
+			"path": "../self-healing-canary-app"
+		},
+		{
+			"name": "self-healing-canary-gitops",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
